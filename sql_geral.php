@@ -15,11 +15,8 @@ class sql_geral {
         $this->con = $Conexao->connection();
     }
 
-    public function insertgeral($nome_questionario, $descricao, $categoria, $autor, $datas, $data2, $perFechadas, $perAbertas, $respostas2, $qntPerguntas) {
-      
-       
-        
-       
+    public function insertgeral($nome_questionario, $descricao, $categoria, $autor, $datas, $data2, $perFechadas, $perAbertas, $qntPerguntas, $respostas2) {
+
         try {
             $this->con->beginTransaction();
             $stmt = "INSERT INTO
@@ -35,7 +32,7 @@ class sql_geral {
             
             $stmt->execute();
             $id_Questionario = $this->con->lastInsertId();
-      
+            $i = 0;
             
             foreach ($perFechadas as $perguntaF) {
                 $sql ="INSERT INTO perguntas (myid, id_questionario, texto_pergunta) values (NULL, :id_questionario, :texto_pergunta);";
@@ -44,26 +41,27 @@ class sql_geral {
                 $sql->bindValue(":texto_pergunta", $perguntaF);
                 $sql->execute();
                 $idPerguntF = $this->con->lastInsertId();
-                for ($cont = 0; $cont < $qntPerguntas; $cont++) {
-                foreach ($respostas2 as $RespostasValor){
+                for ($cont = 0; $cont < $qntPerguntas[$i]; $cont++) {
                 $sql_2 = "INSERT INTO respostas (myid, texto_resposta, id_perguntas) values (NULL, :texto_resposta, :id_perguntas);";
                 $sql_2 = $this->con->prepare($sql_2);
-                $sql_2->bindValue(":texto_resposta", $RespostasValor);
+                $sql_2->bindValue(":texto_resposta", $respostas2[$i][$cont]);
                 $sql_2->bindValue(":id_perguntas", $idPerguntF);
                 $sql_2->execute();    
-      }
-           }
-           
+               
+                
+                }
+                 $i++;
+            }
+            $sql_3 = "";
+             
+                
                 foreach ($perAbertas as $perguntasAbertas) {
-                    
-                    $nova = explode("=", $perguntasAbertas);
-                    var_dump($nova);
                 $sql ="INSERT INTO perguntas (myid, id_questionario, texto_pergunta) values (NULL, :id_questionario, :texto_pergunta);";
                 $sql = $this->con->prepare($sql);
                 $sql->bindValue(":id_questionario", $id_Questionario);
-                $sql->bindValue(":texto_pergunta", $nova[1]);
+                $sql->bindValue(":texto_pergunta", $perguntasAbertas);
                 $sql->execute();
-                 die("teste");
+                
             $this->con->commit();
                 
                    return true;
@@ -73,7 +71,7 @@ class sql_geral {
                  
                 }
 
-        }
+     
         catch (Exception $f) {
             $log = fopen('loge.txt', 'a');
             fwrite($log, "ERRO EM ' -> instPesRast' -=- DIA " . date("d/m/Y") . " -=- HORA " . date("H:m:s") . "\r\n" . $f->getMessage() . "\r\n");

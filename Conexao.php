@@ -14,7 +14,7 @@ class Conexao{
   }
   # This is a connection method because your __construct
   # is not able to return the $pdo connection
-  public function connection($host='127.0.0.1', $username='root', $password='master', $database='questionario'){
+  public function connection($host='127.0.0.1', $username='root', $password='', $database='questionario'){
     # In the connection, you can assign the PDO to a static
     # variable to send it back if it's already set
     if(self::$con instanceof \PDO)

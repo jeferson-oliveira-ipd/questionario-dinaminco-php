@@ -1,0 +1,117 @@
+
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 12:03:20
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 12:03:25
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 12:03:23
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 12:03:58
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 12:03:59
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 12:03:59
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 12:03:00
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 12:03:00
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 12:03:45
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:06
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:21
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:37
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:04
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:13
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:14
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:14
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:14
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:15
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:23
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:56
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:57
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:57
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:57
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:58
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:09
+SQLSTATE[08S01]: Communication link failure: 1053 Server shutdown in progress
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:09
+SQLSTATE[08S01]: Communication link failure: 1053 Server shutdown in progress
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:09
+SQLSTATE[08S01]: Communication link failure: 1053 Server shutdown in progress
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:09
+SQLSTATE[08S01]: Communication link failure: 1053 Server shutdown in progress
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:09
+SQLSTATE[08S01]: Communication link failure: 1053 Server shutdown in progress
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:09
+SQLSTATE[08S01]: Communication link failure: 1053 Server shutdown in progress
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:04
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:07
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:20
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:24
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:57
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:08
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:06
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:12
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:29
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:35
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:03
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:24
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:15
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:16
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:23
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:47
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:56
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:57
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:57
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:03
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:44
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:47
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:25
+There is no active transaction
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:31
+There is no active transaction
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:27
+There is no active transaction
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:58
+There is no active transaction
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 13:03:21
+There is no active transaction
+ERRO EM ' -> instPesRast' -=- DIA 19/03/2018 -=- HORA 14:03:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT perguntas (myid, id_questionario, texto_pergunta) values (NULL, ?, ?)' at line 1
