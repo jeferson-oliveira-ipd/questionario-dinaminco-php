@@ -1,0 +1,4 @@
+ERRO EM 'DBcon -> connection' -=- DIA 22/03/2018 -=- HORA 09:03:48
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+
